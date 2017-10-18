@@ -1,6 +1,6 @@
 {% set name = "TheanoLM" %}
-{% set version = "1.2.2" %}
-{% set sha256 = "a24d79dd71dd74106cb87efb19c335d54e44b349fa7d1504f69b2807c0529e98" %}
+{% set version = "1.2.3" %}
+{% set sha256 = "236c4dfe91ba840f31d050b9cf66f2ebd2f151f42ca784bef6dc04ad6791a4df" %}
 
 package:
   name: {{ name|lower }}
