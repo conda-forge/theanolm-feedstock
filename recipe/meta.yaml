@@ -1,6 +1,6 @@
 {% set name = "TheanoLM" %}
-{% set version = "1.3.0" %}
-{% set sha256 = "d9d15fcb97e3363f375b7a3f195f52dd07049e781f84f0b17968252f2a95da13" %}
+{% set version = "1.3.1" %}
+{% set sha256 = "398c949544bf93a3a7aa0440922b1b1e5287a89c658c93afb0570f902e4edfad" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   skip: True  # [py<34]
-  number: 1000
+  number: 0
   script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
