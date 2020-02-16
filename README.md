@@ -1,4 +1,4 @@
-About theanolm
+About TheanoLM
 ==============
 
 Home: https://github.com/senarvi/theanolm
