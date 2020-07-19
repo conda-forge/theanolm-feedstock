@@ -40,7 +40,7 @@ test:
 
 about:
   home: https://github.com/senarvi/theanolm
-  license: Apache 2.0 
+  license: Apache-2.0
   license_family: Apache
   license_file: LICENSE.txt
   summary: 'Recurrent neural network language modeling tool implemented using Theano'
