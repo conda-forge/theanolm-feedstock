@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python
-    - numpy
+    - numpy <=1.23.5
     - theano
     - h5py
 
